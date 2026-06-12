@@ -1,0 +1,35 @@
+# filepath: .github/workflows/trophy.yml
+name: Generate GitHub Profile Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: nanonymoussu
+          output_path: assets/github-profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Commit trophy SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generate GitHub profile trophy"
+          file_pattern: assets/github-profile-trophy.svg
