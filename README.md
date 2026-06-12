@@ -412,7 +412,7 @@ Worked on an internal Equipment Maintenance Request System, gaining practical ex
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nanonymoussu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nanonymoussu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Profile Trophy" />
 
 </div>
 
