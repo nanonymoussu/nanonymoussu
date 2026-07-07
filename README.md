@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Enterprise-Grade+Software+Engineering;Java+Spring+Boot+%7C+OracleDB+%7C+Keycloak+%7C+Docker;Full-Stack+Product+Engineering+with+AI%2FML+Expertise;Building+Secure%2C+Scalable%2C+Production-Ready+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Software+Engineering;Java+Spring+Boot" alt="Typing SVG" />
 
 <br />
 <br />
